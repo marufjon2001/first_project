@@ -1,0 +1,12 @@
+@media screen and (max-width: 375px) {
+  .container {
+    width: 10%;
+    height: 10vh;
+  }
+}
+@media screen and (max-width: 375px) {
+  .container .navbar {
+    width: 10%;
+    height: 10vh;
+  }
+}
